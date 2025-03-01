@@ -1,5 +1,5 @@
 // src/components/sections/Services.js
-import { Card, CardContent } from '../ui/card';
+import { Card, CardContent } from '../ui/card.js';
 import { CodeIcon, DesignIcon, RocketIcon } from '../icons/Icons';
 
 export function Services() {
