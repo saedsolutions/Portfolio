@@ -1,5 +1,5 @@
 // src/components/sections/Contact.js
-import { Button } from '../ui/button';
+import { Button } from '../ui/button.js';
 
 export function Contact() {
   return (
